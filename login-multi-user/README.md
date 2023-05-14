@@ -8,7 +8,7 @@ Installation
 
 ## Clone the repository or download the source code as a ZIP file:
 
--   `git clone https://github.com/ricotaffarel/laravel.git`
+-   `git clone https://github.com/ricotaffarel/laravel.git laravel-multi-auth`
 
 ## Install dependencies:
 
