@@ -8,9 +8,9 @@ Installation
 
 ## Clone the repository or download the source code as a ZIP file:
 
-*git clone https://github.com/ricotaffarel/laravel.git
-*atau
-*https://github.com/ricotaffarel/laravel/archive/refs/heads/main.zip
+* git clone https://github.com/ricotaffarel/laravel.git
+* atau
+* https://github.com/ricotaffarel/laravel/archive/refs/heads/main.zip
 
 ## Install dependencies:
 composer install
@@ -19,9 +19,9 @@ composer install
 cp .env.example .env
 
 ## Edit the .env file with your database credentials:
-*DB_DATABASE=your_database_name
-*DB_USERNAME=your_database_username
-*DB_PASSWORD=your_database_password
+* DB_DATABASE=your_database_name
+* DB_USERNAME=your_database_username
+* DB_PASSWORD=your_database_password
 
 ## Generate a new application key:
 php artisan key:generate
