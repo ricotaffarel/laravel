@@ -54,5 +54,5 @@ Installation
 
 # demo
 
--   ![alt text](image\login.png)
--   ![alt text](image\logout.png)
+-   ![alt text](login-multi-user\image\login.png)
+-   ![alt text](login-multi-user\image\logout.png)
