@@ -54,5 +54,5 @@ Installation
 
 # demo
 
--   ![alt text](login-multi-user\image\login.png)
--   ![alt text](login-multi-user\image\logout.png)
+-   ![alt text](https://github.com/ricotaffarel/laravel/blob/master/login-multi-user/image/login.png)
+-   ![alt text](https://github.com/ricotaffarel/laravel/blob/master/login-multi-user/image/logout.png)
